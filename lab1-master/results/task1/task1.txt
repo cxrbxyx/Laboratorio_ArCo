@@ -1,0 +1,36 @@
+07 October 2024 04:49:46 PM
+
+MATMUL:
+  C = A * B.
+  Order N                 = 300
+  Elapsed seconds = 0.0954045
+  C(100,100)  = 1
+
+Matmul:
+  Normal end of execution.
+
+07 October 2024 04:49:46 PM
+07 October 2024 04:50:08 PM
+
+MATMUL:
+  C = A * B.
+  Order N                 = 300
+  Elapsed seconds = 0.100668
+  C(100,100)  = 1
+
+Matmul:
+  Normal end of execution.
+
+07 October 2024 04:50:08 PM
+07 October 2024 04:50:21 PM
+
+MATMUL:
+  C = A * B.
+  Order N                 = 300
+  Elapsed seconds = 0.0981012
+  C(100,100)  = 1
+
+Matmul:
+  Normal end of execution.
+
+07 October 2024 04:50:21 PM
