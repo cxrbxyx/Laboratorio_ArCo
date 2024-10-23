@@ -1,0 +1,74 @@
+23 October 2024 11:39:13 AM
+   Vector size: 1000000000
+   Used treahds: 0
+   Elapsed seconds = 3.52065
+   Max: 999999998
+   Min: 0
+23 October 2024 11:39:26 AM
+
+23 October 2024 11:39:29 AM
+   Vector size: 1000000000
+   Used treahds: 0
+   Elapsed seconds = 3.45007
+   Max: 999999997
+   Min: 0
+23 October 2024 11:39:42 AM
+
+23 October 2024 11:39:43 AM
+   Vector size: 1000000000
+   Used treahds: 0
+   Elapsed seconds = 3.44514
+   Max: 999999998
+   Min: 0
+23 October 2024 11:39:56 AM
+
+23 October 2024 11:40:17 AM
+   Vector size: 1000000000
+   Used treahds: 4
+   Elapsed seconds = 0.898868
+   Max: 999999997
+   Min: 0
+23 October 2024 11:40:27 AM
+
+23 October 2024 11:40:29 AM
+   Vector size: 1000000000
+   Used treahds: 4
+   Elapsed seconds = 0.90585
+   Max: 999999999
+   Min: 1
+23 October 2024 11:40:39 AM
+
+23 October 2024 11:40:40 AM
+   Vector size: 1000000000
+   Used treahds: 4
+   Elapsed seconds = 0.900293
+   Max: 999999995
+   Min: 0
+23 October 2024 11:40:50 AM
+
+23 October 2024 11:41:10 AM
+   Vector size: 1000000000
+   Used treahds: 8
+   Elapsed seconds = 0.471751
+   Max: 999999998
+   Min: 0
+23 October 2024 11:41:20 AM
+
+23 October 2024 11:41:21 AM
+   Vector size: 1000000000
+   Used treahds: 8
+   Elapsed seconds = 0.489361
+   Max: 999999999
+   Min: 0
+23 October 2024 11:41:31 AM
+
+23 October 2024 11:41:32 AM
+   Vector size: 1000000000
+   Used treahds: 8
+   Elapsed seconds = 0.477955
+   Max: 999999999
+   Min: 0
+23 October 2024 11:41:42 AM
+
+
+

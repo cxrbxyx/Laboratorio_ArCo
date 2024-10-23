@@ -1,0 +1,55 @@
+23 October 2024 12:57:43 PM
+    La suma es: 49451633 
+   Used treahds: 0
+   Elapsed seconds = 0.000934094
+23 October 2024 12:57:43 PM
+
+23 October 2024 12:57:49 PM
+    La suma es: 49501052 
+   Used treahds: 0
+   Elapsed seconds = 0.000919596
+23 October 2024 12:57:49 PM
+
+23 October 2024 12:57:49 PM
+    La suma es: 49501052 
+   Used treahds: 0
+   Elapsed seconds = 0.000923934
+23 October 2024 12:57:49 PM
+
+23 October 2024 12:58:07 PM
+    La suma es: 49526834 
+   Used treahds: 4
+   Elapsed seconds = 0.0004447
+23 October 2024 12:58:07 PM
+
+23 October 2024 12:58:08 PM
+    La suma es: 49542288 
+   Used treahds: 4
+   Elapsed seconds = 0.000387151
+23 October 2024 12:58:08 PM
+
+23 October 2024 12:58:09 PM
+    La suma es: 49470696 
+   Used treahds: 4
+   Elapsed seconds = 0.000495024
+23 October 2024 12:58:09 PM
+
+
+23 October 2024 12:59:00 PM
+    La suma es: 49457003 
+   Used treahds: 8
+   Elapsed seconds = 0.000406066
+23 October 2024 12:59:00 PM
+
+23 October 2024 12:59:01 PM
+    La suma es: 49537295 
+   Used treahds: 8
+   Elapsed seconds = 0.000405095
+23 October 2024 12:59:01 PM
+
+23 October 2024 12:59:02 PM
+    La suma es: 49510289 
+   Used treahds: 8
+   Elapsed seconds = 0.000366081
+23 October 2024 12:59:02 PM
+

@@ -1,0 +1,45 @@
+
+Se utilizarán 0 hilos
+Se utilizarán 1000000000 intervalos
+El valor aproximado de PI es 3.1415926535899708 con un error de 0.0000000000001776
+El programa ha tardado 2.7978906010 segundos 
+
+Se utilizarán 0 hilos
+Se utilizarán 1000000000 intervalos
+El valor aproximado de PI es 3.1415926535899708 con un error de 0.0000000000001776
+El programa ha tardado 2.8033038790 segundos 
+
+Se utilizarán 0 hilos
+Se utilizarán 1000000000 intervalos
+El valor aproximado de PI es 3.1415926535899708 con un error de 0.0000000000001776
+El programa ha tardado 2.8323317290 segundos 
+
+Se utilizarán 4 hilos
+Se utilizarán 1000000000 intervalos
+El valor aproximado de PI es 3.1415926535898211 con un error de 0.0000000000000280
+El programa ha tardado 0.7436930080 segundos 
+
+Se utilizarán 4 hilos
+Se utilizarán 1000000000 intervalos
+El valor aproximado de PI es 3.1415926535898211 con un error de 0.0000000000000280
+El programa ha tardado 0.7506811430 segundos 
+
+Se utilizarán 4 hilos
+Se utilizarán 1000000000 intervalos
+El valor aproximado de PI es 3.1415926535898211 con un error de 0.0000000000000280
+El programa ha tardado 0.7438586510 segundos 
+
+Se utilizarán 8 hilos
+Se utilizarán 1000000000 intervalos
+El valor aproximado de PI es 3.1415926535897691 con un error de 0.0000000000000240
+El programa ha tardado 0.3841655770 segundos 
+
+Se utilizarán 8 hilos
+Se utilizarán 1000000000 intervalos
+El valor aproximado de PI es 3.1415926535897687 con un error de 0.0000000000000244
+El programa ha tardado 0.3811148930 segundos 
+
+Se utilizarán 8 hilos
+Se utilizarán 1000000000 intervalos
+El valor aproximado de PI es 3.1415926535897691 con un error de 0.0000000000000240
+El programa ha tardado 0.3824063540 segundos 
