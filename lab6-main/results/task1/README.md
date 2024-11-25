@@ -4,9 +4,13 @@ En primer lugar copia el código de [src/task1/query.cpp](../../src/task1/query.
 
 ## ¿Qué salida obtienes?
 **Contesta aquí.**
-
+Al compliar con el comando icpx -fsycl y ejecutando el programa, se obtiene el procesador del host del programa.
 ## ¿Qué tipos de selectores tenemos en DPC? ¿Podemos obtener una GPU? ¿Qué pasa si no existe el dispositivo requerido?
 **Contesta aquí.**
+gpu_selector: Selecciona un dispositivo GPU.
+default_selector: Selecciona el dispositivo predeterminado.
+host_selector: Selecciona el dispositivo host, que es el propio CPU del host.
+accelerator_selector: Selecciona un dispositivo acelerador.
 
 Es probable que alguno de los dispositivos que te permite seleccionar DPC no los tengas disponibles en tu PC. En ese caso habría que recurrir a buscarlos en otros equipos o emplear soluciones de hardware a través de la nube.
 
@@ -15,7 +19,7 @@ Es probable que alguno de los dispositivos que te permite seleccionar DPC no los
 
 ## ¿Cómo has obtenido la GPU?
 **Contesta aquí.**
-
+Cambiando el cpu_selector por gpu_selector
 ## Modifica el programa para obtener más datos del dispositivo.
 **guarda el fichero en results/task1/src/more_query.cpp**
 
